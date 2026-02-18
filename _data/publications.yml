@@ -1,0 +1,19 @@
+main:
+
+  - title: Time-aware life cycle inventories for electricity consumption
+    authors: Sabina Bednářová, Thomas Gibon, Enrico Benetto
+    journal_short: SOFTX
+    journal: SoftwareX
+    pdf: https://doi.org/10.1016/j.softx.2025.102362
+    code: https://git.list.lu/shrecc_project/shrecc
+    image: ./assets/img/shrecc.jpg
+    notes: Open Access
+
+  - title: "Parametric life cycle assessment of nuclear power for simplified models"
+    authors: Thomas Gibon, Álvaro Hahn Menacho
+    journal_short: ES&T
+    journal: Environmental Science & Technology
+    pdf: ./assets/files/nuclear.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    image: ./assets/img/nuclear.png
+    notes: Open Access
