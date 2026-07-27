@@ -1,0 +1,8 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+
+# Local rendered-page backup retained for reference.
+index_bak.html

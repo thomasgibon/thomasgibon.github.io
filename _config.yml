@@ -9,6 +9,8 @@ email: thomas.gibon (at) list.lu
 keywords: thomas gibon life cycle assessment circular economy industrial ecology sustainability data science data visualisation energy climate electricity
 description: I am a researcher working on quantitative sustainability assessment of products and systems, and on improving science-based decision-making.
 canonical: https://thomasgibon.github.io/
+url: https://thomasgibon.github.io
+baseurl: ""
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -41,12 +43,6 @@ font: "Serif" # or "Sans Serif"
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
 
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-plugins:
-  - jekyll-remote-theme
-
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
@@ -58,3 +54,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - vendor/
