@@ -23,7 +23,7 @@ main:
   - title: Integrated life cycle assessment of electricity sources
     authors: Thomas Gibon, Álvaro Hahn Menacho, Mélanie Guiton
     pdf: https://unece.org/sites/default/files/2022-04/LCA_3_FINAL%20March%202022.pdf
-    image: ./assets/img/unece.jpg
+    image: ./assets/img/unece.png
     notes: Open Access
 
   - title: Real-time carbon accounting method for the European electricity markets
