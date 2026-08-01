@@ -1,4 +1,6 @@
 main:
+  
+  - 
 
   - title: Time-aware life cycle inventories for electricity consumption
     authors: Sabina Bednářová, Thomas Gibon, Enrico Benetto
@@ -9,11 +11,31 @@ main:
     image: ./assets/img/shrecc.jpg
     notes: Open Access
 
-  - title: "Parametric life cycle assessment of nuclear power for simplified models"
-    authors: Thomas Gibon, Álvaro Hahn Menacho
+  - title: Parametric life cycle assessment of nuclear power for simplified models
+    authors: Thomas Gibon, Álvaro Hahn Menacho
     journal_short: ES&T
     journal: Environmental Science & Technology
     pdf: ./assets/files/nuclear.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     image: ./assets/img/nuclear.png
+    notes: Open Access
+
+  - title: Integrated life cycle assessment of electricity sources
+    authors: Thomas Gibon, Álvaro Hahn Menacho, Mélanie Guiton
+    pdf: https://unece.org/sites/default/files/2022-04/LCA_3_FINAL%20March%202022.pdf
+    image: ./assets/img/unece.jpg
+    notes: Open Access
+
+  - title: Real-time carbon accounting method for the European electricity markets
+    authors: Bo Tranberg, Olivier Corradi, Bruno Lajoie, Thomas Gibon, Iain Staffell, Gorm Bruun Andresen
+    pdf: https://www.sciencedirect.com/science/article/pii/S2211467X19300549
+    image: ./assets/img/tranberg.png
+    notes: Open Access
+
+  - title: Integrated life-cycle assessment of electricity-supply scenarios confirms global environmental benefit of low-carbon technologies
+    authors: Edgar G Hertwich, Thomas Gibon, Evert A Bouman, Anders Arvesen, Sangwon Suh, Garvin A Heath, Joseph D Bergesen, Andrea Ramirez, Mabel I Vega, Lei Shi
+    journal_short: PNAS
+    journal: Proceedings of the National Academy of Sciences
+    pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.1312753111
+    image: ./assets/img/pnas.jpeg
     notes: Open Access
