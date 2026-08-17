@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a researcher at the Luxembourg Institute of Science and Technology (LIST).
+I am a researcher in sustainability assessment at the [Luxembourg Institute of Science and Technology (LIST)](https://www.list.lu/).
 
 ## Research Interests
 
