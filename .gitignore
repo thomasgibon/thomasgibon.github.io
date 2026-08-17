@@ -3,6 +3,7 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+Gemfile.lock
 
 # Local rendered-page backup retained for reference.
 index_bak.html
